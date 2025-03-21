@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sameeksha09
+- 👋 Hi, I’m Sameeksha
 - 👀 I’m interested in Data Science & Data Analytics
 - 🌱 I’m currently learning Python,SQL,PowerBI,Excel,Data analysis
 - 💞️ I’m looking to collaborate on ...
